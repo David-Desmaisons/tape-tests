@@ -1,4 +1,4 @@
-import test from "../node_modules/tape/index.js";
+import test from "tape";
 
 test('first', function (t) {
 
